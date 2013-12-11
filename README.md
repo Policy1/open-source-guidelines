@@ -1,4 +1,4 @@
-# HMRC Open Source Guidelines
+## HMRC Open Source Guidelines
 
 This document will set out the guidelines for open sourcing software from HMRC. 
 
