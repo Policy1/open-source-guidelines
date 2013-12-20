@@ -1,3 +1,23 @@
 ##Using Open Source Software in HMRC
 
-##Open Sourcing code in HMRC
+##Open Sourcing HMRC code
+
+Principles statement
++ HMRC is committed to making digital assets generated as a result of its Digital Strategy widely available.
++ Wherever appropriate, general purpose software developed by or for HMRC will be released on an open source basis.
+
++ HMRC will not share the following:
+== security enforing functions
+== configuration data
+== test plans
+== test data
+== test scenarios
+== business logic such as deminimis and sensitivity parameters
+== sensitive or bespoke algorithms
+
++ HMRC will apply the following procedural controls:
+== secure development lifecycle practices
+== incident response planning
+== maintenance of published code
+== management assurance
+
