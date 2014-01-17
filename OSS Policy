@@ -7,7 +7,7 @@ Principles statement
 + Wherever appropriate, general purpose software developed by or for HMRC will be released on an open source basis.
 
 + HMRC will not share the following:
-== security enforing functions
+== security enforcing functions
 == configuration data
 == test plans
 == test data
