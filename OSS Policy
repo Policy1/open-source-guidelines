@@ -6,6 +6,11 @@ Principles statement
 + HMRC is committed to making digital assets generated as a result of its Digital Strategy widely available.
 + Wherever appropriate, general purpose software developed by or for HMRC will be released on an open source basis.
 
+Definition
++ For the purpose of this policy, we define Open Source Software as comprising 
+== Open Source Software as defined by the Open Source Initiative (opensource.org)
+== Free Software as defined by the Free Software Foundation (fsf.org)
+
 + HMRC will not share the following:
 == security enforcing functions
 == configuration data
